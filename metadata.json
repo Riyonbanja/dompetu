@@ -1,0 +1,6 @@
+{
+  "name": "DompetKu",
+  "description": "Aplikasi pengelolaan keuangan pribadi dengan pencatatan pengeluaran harian, integrasi kategori belanja, grafik ringkasan bulanan, serta ekspor ke PDF dan Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
